@@ -1,5 +1,15 @@
 # Hi!! We are group Technicrab.
 
+## Reflection: Koperasi KADA Online System Project
+
+Through this project, I gained a better understanding of the full software development process, including requirement analysis, system design, implementation planning, documentation, and testing. The project helped me see how a real client system can be designed to solve manual workflow problems, such as paper-based member registration, loan applications, application status tracking, and report generation.
+
+As a system developer, I learned how important it is to prepare a clear system documentation, define the project scope and design proper workflows before development starts. I also improved my understanding of UML diagrams, database design, user interface planning and understand the importance of teamwork.
+
+One improvement that could be made is to enhance the system with more automation features, such as email or SMS notifications when an application status changes. The interface could also be improved to make it more user-friendly and the report module could include better dashboards design for easier decision-making.
+
+Overall, this project was meaningful because it showed me that software development is not only about coding but also about understanding user needs, planning carefully, communicating with clients, and building a system that can improve real business operations.
+
 ## <a href="https://github.com/Cheryl322/Technicrab_Project1_SAD_20232024/tree/main/1.0%20Introduction">1.0 Introduction
 </a> 
 
